@@ -2,7 +2,7 @@
 - 👀 I’m interested in project managemnt
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me via email
+- 📫 you can reach out to me via email
 
 <!---
 saloni4-sneha/saloni4-sneha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
